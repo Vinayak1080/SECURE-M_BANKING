@@ -1,5 +1,3 @@
 # SECURE-M_BANKING
 '
 '
-'
-'
